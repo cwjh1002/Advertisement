@@ -7,7 +7,6 @@ For Advertisement List of EfeGear.
 %adv%지금 이 서버가 질린다면! 묘한 중독성! astia.kr (1.7-1.7.5)%adv%
 %adv%[1.6.4] YRS Online *커스텀 NPC/RPG* http://cafe.naver.com/YocomRpgCafe%adv%
 %adv%[1.7.5] MCWRO RPG서버 [ http://cafe.naver.com/mcsao ]%adv%
-%adv%[1.5.2] 제커서버 인생약탈 + 스카이블럭 서버 zekerserver.no-ip.org%adv%
 %adv%172 : 정품서버 : http://cafe.naver.com/reminserver : 개발중%adv%
 %adv%[정품전용] 자유플레이/정복전쟁서버 네이버에 '아르카서버'를 검색하세요!%adv%
 %adv%(초보)BJ르포 많은사랑해주세요~ http://afreeca.com/rjqnr9343%adv%
