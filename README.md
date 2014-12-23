@@ -15,6 +15,7 @@ For Advertisement List of EfeGear.
 %adv%[1.5.2]스블과RPG가잇는콩문서버!congmoon.no-ip.org%adv%
 %adv%[1.7.2] MS서버 마인팜+RPG+건축+미니게임! ms.mmss.kr.pe%adv%
 %adv%더 많은 서버를 찾아보세요 https://minelist.kr%adv%
+%adv%Sky block 와 RPG가 결합되어 만들어진 신생서버!! sbsserver.oa.to로 놀러오세요!!%adv%
 %adv%광고를 게재하고 싶으시다면 Efe의 블로그를 방문해주세요!%adv%
 %adv%§8§lEfe's Factory):: §7http://blog.naver.com/cwjh1002%adv%
 %adv%Plugin Made by Efe%adv%
